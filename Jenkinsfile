@@ -1,5 +1,5 @@
 @Library('cilib') _
 
-ci.sharedPipeline(
+pipeline1(
   param1: "customParam1"
 )
