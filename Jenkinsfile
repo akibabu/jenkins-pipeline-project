@@ -1,5 +1,5 @@
 @Library('cilib') _
 
-pipeline1(
+scripted_pipeline(
   param1: "customParam1"
 )
